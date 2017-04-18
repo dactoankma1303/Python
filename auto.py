@@ -27,3 +27,4 @@ for img in dulieu.find_all('img'):
 print '\nSave images !'  
     
 
+
